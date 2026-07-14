@@ -2,7 +2,7 @@
 
 Games I designed and built in Rec Room's creator platform, archived here following the platform's shutdown. Rec Room used a visual scripting/component system (CRR / RR nodes) for game logic, similar to a lightweight engine scripting environment.
 
-Combined, these rooms reached **~2.1M room visits** and **~208K likes** across ~2 years of active development.
+Combined, these rooms reached **~2.1M room visits** and **~208K likes** across ~4 years of active development.
 
 ## 🧰 Tech / Tools
 
