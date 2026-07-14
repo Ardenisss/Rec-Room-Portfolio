@@ -118,9 +118,3 @@ Poppy Playtime-inspired horror escape room — collect batteries and insert them
 ![gameplay placeholder](./images/catnaps-red-smoke/gameplay-1.png)
 
 ---
-
-## 🙏 Credits
-
-- @Sus — creator/collaborator (Demogorgon's Hunt, HoodLife City RP, Prison Break RP)
-- @Scooby-who — creator/collaborator (Catnaps Red Smoke)
-- _add your handle/role on each here_
